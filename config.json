@@ -1,0 +1,14 @@
+{
+  "server_url": "http://127.0.0.1:4723/",
+  "keyword": "刘若英",
+  "users": [
+    "用户1",
+    "用户2"
+  ],
+  "city": "南京", 
+  "date": "2025-11-02",
+  "time": "13:17:00",
+  "price": "1099",
+  "price_index": 3,
+  "if_commit_order": true
+}
